@@ -15,7 +15,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/l44QzsOLXxcrigdgI/giphy.gif">
 
-- 🔭 I’m currently working on **deep reinforcement learning (Khmer Chess or Ouk Chaktrang)**
+- 🔭 I’m currently working on **deep reinforcement learning**
 
 - 🌱 I’m currently learning **Python, Pytorch, Tensorflow, JavaScript, React, etc...**
 
