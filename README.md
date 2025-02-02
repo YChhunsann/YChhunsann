@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning** and **deep reinforcement learning**
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **Bong Sann HD**
 
