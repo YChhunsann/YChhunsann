@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Bong Sann HD - Yeab Chhunsann
+  Hi 👋, I'm Your Father !
   <hr />
   <table align="center">
     <tr border: none;>
@@ -22,10 +22,6 @@
 - 👯 I’m looking to collaborate on **Machine Learning** and **deep reinforcement learning**
 
 - 💬 Ask me about **Python**
-
-- 📫 How to reach me **Bong Sann HD**
-
-- ⚡ Fun fact **I think I am ...**
 
 # 
 
