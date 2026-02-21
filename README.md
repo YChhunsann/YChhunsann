@@ -21,8 +21,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning** and **deep reinforcement learning**
 
-- 💬 Ask me about **Python**
-
 # 
 
 <h3 align="left">Connect with me:</h3>
