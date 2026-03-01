@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Your Father !
+  Hi 👋, I'm sann !
   <hr />
   <table align="center">
     <tr border: none;>
@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **deep reinforcement learning**
 
-- 🌱 I’m currently learning **Python, Pytorch, Tensorflow, JavaScript, React, etc...**
+- 🌱 I’m currently learning **Python, Pytorch, Tensorflow, fastapi, vue.js, asp.net core, etc...**
 
 - 👯 I’m looking to collaborate on **Machine Learning** and **deep reinforcement learning**
 
